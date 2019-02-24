@@ -4,7 +4,7 @@ Introductory Convolutional Neural Network for Solving Computer Vision Problems. 
 
 This repository contains three projects on Convolutional Neural Network. The projects are implemented using Jupyter Notebook with Python3.
 
-Projects are implemented using Keras on top of TensorFlow.
+Projects are implemented using Keras on top of TensorFlow framework.
 
 Three projects are:
 

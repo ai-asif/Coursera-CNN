@@ -1,6 +1,7 @@
 # Coursera-CNN
 Introductory Convolutional Neural Network for Solving Computer Vision Problems. The course assignments from Coursera course Convolutional Neural Network offered by DeepLearning.ai and Professor Andrew Ng.
 
+The datasets used in these projects are hosted in HDFS.
 
 This repository contains three projects on Convolutional Neural Network. The projects are implemented using Jupyter Notebook with Python3.
 
